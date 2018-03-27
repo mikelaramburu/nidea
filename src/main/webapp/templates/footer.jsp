@@ -1,4 +1,6 @@
-	</div>
+ <div class="container">
+© 2018 GitHub, Inc.
+</div>
 	<!--  <div class="container"> -->
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

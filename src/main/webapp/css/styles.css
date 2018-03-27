@@ -12,3 +12,14 @@ svg{
 	display:block;
 	margin: auto;
 }
+
+/* login
+*****************************************/
+#login{
+	padding-top: 5em;
+}
+
+#login form{
+	width: 500px;
+	margin: auto;
+}
