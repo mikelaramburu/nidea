@@ -12,7 +12,7 @@ public class Alert {
 
 	public Alert() {
 		super();
-		this.mensaje = "Sentimos las molestias, tenemos un error inexperado";
+		this.mensaje = "Sentimos las molestias, tenemos un error inesperado";
 		this.tipo = TIPO_DANGER;
 	}
 
